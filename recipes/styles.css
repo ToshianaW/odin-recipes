@@ -1,0 +1,76 @@
+
+.main {
+    background-color: darkolivegreen;
+    color: moccasin;
+    text-align: center;
+}
+#one {
+    font-size: 30px;
+    text-align: center;
+    color: darkolivegreen;
+}
+#two {
+    font-size: 30px;
+    text-align: center;
+    color: darkolivegreen;
+}
+#three {
+    font-size: 30px;
+    text-align: center;
+    color: darkolivegreen;
+}
+.title-for-rotel{
+    background-color: darkolivegreen;
+    text-align: center;
+    color: moccasin;
+    font-family: sans-serif,'Times New Roman', Times, serif
+}
+.rotelimg {
+    height: 250px;
+    width: 200px;
+}
+.disc {
+    text-align: center;
+}
+.ing-text {
+    color: darkolivegreen;
+    font-family: sans-serif,'Times New Roman', Times, serif
+}
+.ro-steps {
+    color: darkolivegreen;
+    font-family: sans-serif,'Times New Roman', Times, serif
+}
+.spag-title {
+    background-color: darkolivegreen;
+    color: moccasin;
+    text-align: center;
+    font-family: sans-serif,'Times New Roman', Times, serif
+}
+.spag-disc {
+    text-align: center;
+}
+.spag-ing {
+    color: darkolivegreen;
+    font-family: sans-serif,'Times New Roman', Times, serif
+}
+.spag-steps {
+    color: darkolivegreen;
+    font-family: sans-serif,'Times New Roman', Times, serif
+}
+.tac-title {
+    background-color: darkolivegreen;
+    color: moccasin;
+    text-align: center;
+    font-family: sans-serif,'Times New Roman', Times, serif
+}
+.tac-main {
+    text-align: center;
+}
+.tac-ing {
+    color: darkolivegreen;
+    font-family: sans-serif,'Times New Roman', Times, serif;
+}
+.tac-steps {
+    color: darkolivegreen;
+    font-family:sans-serif,'Times New Roman', Times, serif;
+}
